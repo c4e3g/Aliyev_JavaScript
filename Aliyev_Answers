@@ -1,0 +1,10 @@
+Given bracket sequence: [((())()(())]] 
+-Can this sequence be considered correct? 
+-If the answer to the previous question is “no”, then what needs to be changed in it to make it correct? 
+
+
+Answer:
+- For me, Basically, no, this sequence is not correct because the second opening bracket in the start and the second closing bracket from the end are not properly paired.
+But if it comes to phylosophical logics, then based on every individuals` self-cognitive way of thoughts - anything can be seen as "true" even if it is "false" for mass backed logic in means of digital patterns followed by each other in a certain way which can be found reasonable for somebody .
+- To make the sequence correct, the brackets need to be properly paired and nested.
+
