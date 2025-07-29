@@ -1,5 +1,5 @@
   name: Run JavaScript
-    on: push
+    on: run
     jobs:
       run-js:
         runs-on: ubuntu-latest
